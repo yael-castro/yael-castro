@@ -1,6 +1,6 @@
-### ¡Hola! Soy Yael
-
-### Tecnologías
+#### ¡Hola! Soy Yael 💀
+###### Desarrollador de Back-end
+#### Tecnologías
 
 [![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=ffffff)](https://go.dev/)
 
