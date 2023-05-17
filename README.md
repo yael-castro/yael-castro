@@ -1,3 +1,4 @@
-### Hi! I am ```Yael``` 💀
+# Hi! 🖖🏼
+I'm a server-side focused software developer. 🤓
 
-If you want know more about me [Click here!](https://yael-castro.com)
+If you want to know more about me or contact me [visit my website](https://yael.mx).
